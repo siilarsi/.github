@@ -1,0 +1,14 @@
+{
+    "name": "Foo Workflow",
+    "description": "Foo starter workflow.",
+    "categories": [
+        "Go",
+        "JavaScript",
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
